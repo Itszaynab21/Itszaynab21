@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Itszaynab21
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and javaScript.
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL, R.Language and Excel. 
 - 📫 How to reach me s.zaynab22@gmail.com
 
 <!---
